@@ -1,5 +1,6 @@
 # CSVconverter_android
 Easily convert Launch, Topdon, Autel, and ThinkDiag live data to CSV format directly in Android.
+The application is multilingual (ENG, DE, CZ, CN,...)
 
 How to use
 
