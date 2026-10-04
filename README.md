@@ -5,8 +5,13 @@ How to use
 
 	1) Export live data from your diagnostic tool and save it to own folder.
 	2) Download the latest version of CSVconvert.apk and instal it.
-	3) Start the program
-	4) Select your .x431/.tc file from your diagbostic tool
+	3) Start the program.
+	4) Select your .x431/.tc file from your diagbostic tool.
+	5) The CSV file will be saved to downloads/csv_output.
+	6) Once finished, the file can be quickly shared (via email, WhatsApp, etc.).
+	7) But the main thing is the ability to quickly share a file with an AI (Gemini, ChatGPT, Claude, ...).
+
+	
 
 <img width="328" height="477" alt="screen" src="https://github.com/user-attachments/assets/1b2c227d-2af3-4c6a-97b2-e560c72b1c3b" />
 
