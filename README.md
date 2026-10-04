@@ -8,7 +8,7 @@ How to use
 	3) Start the program
 	4) Select your .x431/.tc file from your diagbostic tool
 
-<img width="228" height="377" alt="screen" src="https://github.com/user-attachments/assets/1b2c227d-2af3-4c6a-97b2-e560c72b1c3b" />
+<img width="328" height="477" alt="screen" src="https://github.com/user-attachments/assets/1b2c227d-2af3-4c6a-97b2-e560c72b1c3b" />
 
 How to export data from your diagnostic: 
 
