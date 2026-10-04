@@ -2,10 +2,14 @@
 Easily convert Launch, Topdon, Autel, and ThinkDiag live data to CSV format.
 
 How to use
-	​1) Export live data from your diagnostic tool and save it to own folder.
-	2) Download the latest version of CSVconvert.apk and instal it.	
+
+	1) Export live data from your diagnostic tool and save it to own folder.
+	2) Download the latest version of CSVconvert.apk and instal it.
 	3) Start the program
 	4) Select your .x431/.tc file from your diagbostic tool
+
+	<img width="1280" height="2772" alt="screen" src="https://github.com/user-attachments/assets/8551a6b0-867d-45a4-8520-377664ab6ceb" />
+
 
 How to export data from your diagnostic: 
 
